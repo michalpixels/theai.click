@@ -1,1 +1,1 @@
-# theaiclick
+# theai.click
